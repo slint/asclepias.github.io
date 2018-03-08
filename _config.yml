@@ -1,3 +1,4 @@
 title: Asclepias
 description: A Sloan Foundation funded project to improve software citation across Astronomy
 theme: jekyll-theme-cayman
+markdown: kramdown
